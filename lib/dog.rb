@@ -8,6 +8,6 @@ class Dog
 attr_accessor :name
 
 def bark
-  puts "Woof!"
+  puts "woof!"
 end
 end
